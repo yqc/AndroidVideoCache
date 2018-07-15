@@ -1,3 +1,4 @@
+Android视频点播-边播边缓存-方案
 ## Video cache support for Android
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidVideoCache-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1751) [![Build Status](https://api.travis-ci.org/danikula/AndroidVideoCache.svg?branch=master)](https://travis-ci.org/danikula/AndroidVideoCache/) [ ![Download](https://api.bintray.com/packages/alexeydanilov/maven/videocache/images/download.svg) ](https://bintray.com/alexeydanilov/maven/videocache/_latestVersion)
 
